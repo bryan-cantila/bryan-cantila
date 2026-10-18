@@ -1,6 +1,6 @@
 # Bryan Cantila
 
-**Full Stack Agentic Developer | Founder, devuvo.com**
+**Full Stack Agentic Developer** — independent software developer offering services since 2019. Portfolio site: devuvo.com (launched 2026).
 
 I build and ship multi-platform software — mobile, web, 3D, and intelligent systems — using an AI-assisted workflow: architecture, product decisions, and quality are directed up front; everything ships reviewed.
 
