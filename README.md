@@ -1,6 +1,6 @@
 # Bryan Cantila
 
-**AI-Assisted Software Engineer | Founder, devuvo.com**
+**Full Stack Agentic Developer | Founder, devuvo.com**
 
 I build and ship multi-platform software — mobile, web, 3D, and intelligent systems — using an AI-assisted workflow: architecture, product decisions, and quality are directed up front; everything ships reviewed.
 
