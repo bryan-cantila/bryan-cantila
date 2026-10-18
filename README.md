@@ -14,11 +14,17 @@ I build and ship multi-platform software — mobile, web, 3D, and intelligent sy
 
 ## Featured projects
 
-- **FleetTrack** — trucking fleet dispatch console: 32-truck fleet board, dispatch actions, maintenance, fuel, billing, and reports in a single-file web app. [Repo](https://github.com/bryan-cantila/fleettrack) · [Live demo](https://bryan-cantila.github.io/fleettrack/)
-- **Swift** — neon 3D endless runner with immediate controls, readable hazards, coin lines, and escalating combos
-- **Aetheria** — real-time 3D tech demo: rigged knight, animation blending, roaming creatures, melee combat, procedural terrain
-- **e-FLOW** — electronic financial, logistics, and operations workflow: request-to-liquidation tracking with status visibility and audit trail
-- **Kwenta Kontra** — competitive mental-math battler: solo AI play and local two-player competition in one browser game
+- **bry-archiver** — original `.bry` compression CLI for Windows/Mac: 16/16 tests passing, CI green. [Repo](https://github.com/bryan-cantila/bry-archiver)
+- **DocuChat** — RAG chatbot: upload PDF/TXT/MD and chat with your documents, streaming answers with cited sources and match scores (Next.js + pgvector). [Repo](https://github.com/bryan-cantila/docuchat)
+- **SnapLink** — hand-built URL shortener REST API: FastAPI + PostgreSQL, JWT auth, click analytics, rate limiting, Redis cache. [Repo](https://github.com/bryan-cantila/snaplink)
+- **HabitLoop** — native Flutter habit tracker: streaks with grace-day logic, daily/weekly habits, stats, reminders, 19/19 tests. [Repo](https://github.com/bryan-cantila/habitloop)
+- **SyncSketch** — real-time collaborative whiteboard over raw WebSockets: rooms, live stroke sync, presence, late-joiner catch-up. [Repo](https://github.com/bryan-cantila/syncsketch)
+- **SpendWise** — personal finance dashboard: Next.js bento grid, hand-rolled SVG charts, budgets, transactions, CSV export. [Repo](https://github.com/bryan-cantila/spendwise)
+- **FleetTrack** — trucking fleet dispatch console: 32-truck fleet board, dispatch, maintenance, fuel, billing, reports. [Repo](https://github.com/bryan-cantila/fleettrack) · [Live demo](https://bryan-cantila.github.io/fleettrack/)
+- **Bling My Page** — website redesign studio: auto-redesign any site in 22 themes + 12 palettes, before/after previews. [Repo](https://github.com/bryan-cantila/bling-my-page) · [Live demo](https://bryan-cantila.github.io/bling-my-page/)
+- **Truth Layer** — anti-scam browser extension: on-device link scanner with scored verdicts, C2PA provenance checker, media analyzer. [Repo](https://github.com/bryan-cantila/truth-layer)
+- **Uptime Monitor** — Supabase + n8n uptime monitoring with installable PWA dashboard and Telegram alerts. [Repo](https://github.com/bryan-cantila/uptime-monitor)
+- **Content Pipeline** — AI-assisted content production: n8n topic harvester → AI drafts → scheduled multi-channel publishing. [Repo](https://github.com/bryan-cantila/content-pipeline)
 
 ## Links
 
